@@ -1,0 +1,1 @@
+const socialShare=document.querySelector(".card__share"),socialCard=document.querySelector(".card__social"),makeUnvisible=()=>socialCard.classList.remove("card__social--visible"),toggleVisible=()=>socialCard.classList.toggle("card__social--visible");socialShare.addEventListener("focusout",makeUnvisible),socialShare.addEventListener("click",toggleVisible);
