@@ -177,7 +177,7 @@ body {
   }
 
   &__share {
-    background: url('/images/icon-share.svg') var(--light-grayish-blue);
+    background: url('../../images/icon-share.svg') var(--light-grayish-blue);
     background-repeat: no-repeat;
     background-position: center;
     width: 30px;
@@ -189,7 +189,7 @@ body {
 
   &__share:hover,
   &__share:focus {
-    background: url('/images/icon-share-white.svg') var(--grayish-blue);
+    background: url('../../images/icon-share-white.svg') var(--grayish-blue);
     background-repeat: no-repeat;
     background-position: center;
     outline: none;
