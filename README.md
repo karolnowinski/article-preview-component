@@ -11,7 +11,7 @@ Users should be able to:
 
 ## Screenshot
 
-![](./screenshot.png)
+![](./desktop.gif)
 
 ## Links
 
