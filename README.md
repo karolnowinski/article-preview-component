@@ -12,6 +12,7 @@ Users should be able to:
 ## Screenshot
 
 ![](./desktop.gif)
+![](./mobile.gif)
 
 ## Links
 
